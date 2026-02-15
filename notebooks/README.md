@@ -206,7 +206,7 @@ They will be added as the course progresses.
         </a>
       </td>
     </tr>
-<tr>
+    <tr>
       <td>
       <h4>Exercise: <a href="14_timeseries_anomaly_detection.ipynb">14: Anomaly detection</a></h4>
        Train an <i>autoencoder</i> to detect anomalous data in time series. 
@@ -216,6 +216,63 @@ They will be added as the course progresses.
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab">
         </a><br>
         <a href="https://raw.githubusercontent.com/HVL-ML/DAT255/main/notebooks/14_timeseries_anomaly_detection.ipynb" download>
+          <img src="https://img.shields.io/badge/github-download-blue?logo=github" alt="Download">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Deployment</td>
+      <td>
+      <h4>Tutorial: <a href="15_gradio_and_streamlit.ipynb">15: Gradio and Streamlit </a></h4>
+      Deploy your deep learning predictor in a user-friendly webapp using the Gradio and Streamlit libraries.
+      </td>
+      <td>
+        <a href="https://colab.research.google.com/github/HVL-ML/DAT255/blob/main/notebooks/15_gradio_and_streamlit.ipynb">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab">
+        </a><br>
+        <a href="https://raw.githubusercontent.com/HVL-ML/DAT255/main/notebooks/15_gradio_and_streamlit.ipynb" download>
+          <img src="https://img.shields.io/badge/github-download-blue?logo=github" alt="Download">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan=3>Tabular data</td>
+      <td>
+      <h4>Tutorial: <a href="16_simple_tabular_data.ipynb">16: Deep learing on tabular data</a></h4>
+      Compare the predictive performance of neural networks and decision trees, when applied to tabular datasets.
+      </td>
+      <td>
+        <a href="https://colab.research.google.com/github/HVL-ML/DAT255/blob/main/notebooks/16_simple_tabular_data.ipynb">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab">
+        </a><br>
+        <a href="https://raw.githubusercontent.com/HVL-ML/DAT255/main/notebooks/16_simple_tabular_data.ipynb" download>
+          <img src="https://img.shields.io/badge/github-download-blue?logo=github" alt="Download">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <h4>Exercise: <a href="17_preprocessing_tabular_data.ipynb">17: Preprocessing tabular data with Keras.</a></h4>
+      Try out the different preprocessing layers in Keras.
+      </td>
+      <td>
+        <a href="https://colab.research.google.com/github/HVL-ML/DAT255/blob/main/17_preprocessing_tabular_data.ipynb">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab">
+        </a><br>
+        <a href="https://raw.githubusercontent.com/HVL-ML/DAT255/main/notebooks/17_preprocessing_tabular_data.ipynb" download>
+          <img src="https://img.shields.io/badge/github-download-blue?logo=github" alt="Download">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <h4>(Optional) Exercise: <a href="18_embeddings_and_modern_tabular_networks.ipynb">18: Embeddings and modern networks for tabular data. </a></h4>
+      Skip the one-hot encodings and replace them with embeddings. Then train a transformer model on it 👩‍💻
+      <td>
+        <a href="https://colab.research.google.com/github/HVL-ML/DAT255/blob/main/18_embeddings_and_modern_tabular_networks.ipynb">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab">
+        </a><br>
+        <a href="https://raw.githubusercontent.com/HVL-ML/DAT255/main/notebooks/18_embeddings_and_modern_tabular_networks.ipynb" download>
           <img src="https://img.shields.io/badge/github-download-blue?logo=github" alt="Download">
         </a>
       </td>
